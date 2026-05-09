@@ -1,0 +1,2 @@
+model,asr_text,asr_confidence,asr_time,nlu_intent,nlu_entities,nlu_confidence,nlu_time,hedef_nesne,belirsizlik,grounding_confidence,grounding_time,robot_mesaji,eylem_onayli,diyalog_time,sim_time,toplam_sure,eylem_durumu
+tiny,Mavik tuyu Ağraf'tan al ve palete bırak,0.457,0.836,nesne_tasima,"{'renk': 'mavi', 'nesne': 'palet', 'hedef': 'palet'}",0.9,0.0008,None,True,0.0,0.0089,"Üzgünüm, ortamda bahsettiğiniz özelliklerde bir mavi palet bulunamadı veya komutu tam anlayamadım.",False,0.0003,0.0002,0.847,İptal/Belirsiz

@@ -1,0 +1,2 @@
+model,asr_text,asr_confidence,asr_time,nlu_intent,nlu_entities,nlu_confidence,nlu_time,hedef_nesne,belirsizlik,grounding_confidence,grounding_time,robot_mesaji,eylem_onayli,diyalog_time,sim_time,toplam_sure,eylem_durumu
+small,Mavikutuyu Araftından al ve palete bırak.,0.451,4.21,nesne_tasima,"{'renk': 'mavi', 'nesne': 'kutu', 'kaynak': 'araf', 'hedef': 'palet'}",0.663,4.2938,kutu_mavi_1,False,0.9,0.0093,Gürültü nedeniyle komuttan emin olamadım (Güven: %55.7). mavi kutu işlemini onaylıyor musunuz?,False,0.0004,0.0002,8.514,İptal/Belirsiz

@@ -1,0 +1,2 @@
+model,asr_text,asr_confidence,asr_time,nlu_intent,nlu_entities,nlu_confidence,nlu_time,hedef_nesne,belirsizlik,grounding_confidence,grounding_time,robot_mesaji,eylem_onayli,diyalog_time,sim_time,toplam_sure,eylem_durumu
+small,Sarı topu sıradan al ve palete bırak.,0.733,4.321,nesne_tasima,"{'renk': 'sarı', 'nesne': 'palet', 'hedef': 'palet'}",0.711,4.5557,palet_sari_1,False,0.9,0.0094,"Anlaşıldı, sarı palet ve palet hedefine bırakılıyor.",True,0.0004,1.501,10.388,Başarılı

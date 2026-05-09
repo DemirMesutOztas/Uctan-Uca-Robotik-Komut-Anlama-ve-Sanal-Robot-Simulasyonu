@@ -1,0 +1,2 @@
+model,asr_text,asr_confidence,asr_time,nlu_intent,nlu_entities,nlu_confidence,nlu_time,hedef_nesne,belirsizlik,grounding_confidence,grounding_time,robot_mesaji,eylem_onayli,diyalog_time,sim_time,toplam_sure,eylem_durumu
+small,Kırmızı kutuyu B kıfından al ve palete bırak.,0.68,4.344,nesne_tasima,"{'renk': 'kırmızı', 'nesne': 'kutu', 'hedef': 'palet'}",0.848,3.9865,"['kutu_kirmizi_1', 'kutu_kirmizi_2']",True,0.0,0.0092,"Üzgünüm, ortamda tam 2 adet kırmızı kutu algıladım. Hangisini kastediyorsunuz?",False,0.0009,0.0002,8.341,İptal/Belirsiz

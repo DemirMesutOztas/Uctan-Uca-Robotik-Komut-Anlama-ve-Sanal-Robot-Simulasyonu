@@ -1,0 +1,2 @@
+model,asr_text,asr_confidence,asr_time,nlu_intent,nlu_entities,nlu_confidence,nlu_time,hedef_nesne,belirsizlik,grounding_confidence,grounding_time,robot_mesaji,eylem_onayli,diyalog_time,sim_time,toplam_sure,eylem_durumu
+tiny,Sırtopu sıradan al ve palete bırak.,0.433,1.232,nesne_tasima,"{'nesne': 'palet', 'hedef': 'palet'}",0.8,0.001,None,True,0.0,0.0089,"Üzgünüm, ortamda bahsettiğiniz özelliklerde bir  palet bulunamadı veya komutu tam anlayamadım.",False,0.0004,0.0004,1.242,İptal/Belirsiz

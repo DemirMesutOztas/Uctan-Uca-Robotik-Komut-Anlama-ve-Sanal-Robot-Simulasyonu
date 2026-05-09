@@ -1,0 +1,2 @@
+model,asr_text,asr_confidence,asr_time,nlu_intent,nlu_entities,nlu_confidence,nlu_time,hedef_nesne,belirsizlik,grounding_confidence,grounding_time,robot_mesaji,eylem_onayli,diyalog_time,sim_time,toplam_sure,eylem_durumu
+tiny,"Karımıza kötü yübe, rıfından al ve palete bırak.",0.516,0.868,nesne_tasima,"{'nesne': 'palet', 'hedef': 'palet'}",0.8,0.0007,None,True,0.0,0.0095,"Üzgünüm, ortamda bahsettiğiniz özelliklerde bir  palet bulunamadı veya komutu tam anlayamadım.",False,0.0004,0.0003,0.879,İptal/Belirsiz
