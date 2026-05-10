@@ -1,0 +1,2 @@
+model,asr_text,asr_confidence,asr_time,nlu_intent,nlu_entities,nlu_confidence,nlu_time,hedef_nesne,belirsizlik,grounding_confidence,grounding_time,robot_mesaji,eylem_onayli,diyalog_time,sim_time,toplam_sure,eylem_durumu
+small,Mavikutuyu Arafından al ve palete bırak.,0.508,4.435,nesne_tasima,"{'renk': 'mavi', 'nesne': 'kutu', 'kaynak': 'araf', 'hedef': 'palet'}",0.95,0.0007,kutu_mavi_1,False,0.9,0.0098,"Anlaşıldı, mavi kutu araf kaynağından alınıyor ve palet hedefine bırakılıyor.",True,0.0008,1.5011,5.948,Başarılı
